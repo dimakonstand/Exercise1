@@ -1,0 +1,7 @@
+C:\Users\konst\source\repos\ManipulateNumbers_OOP\ManipulateNumbers_OOP\bin\Debug\ManipulateNumbers_OOP.exe.config
+C:\Users\konst\source\repos\ManipulateNumbers_OOP\ManipulateNumbers_OOP\bin\Debug\ManipulateNumbers_OOP.exe
+C:\Users\konst\source\repos\ManipulateNumbers_OOP\ManipulateNumbers_OOP\bin\Debug\ManipulateNumbers_OOP.pdb
+C:\Users\konst\source\repos\ManipulateNumbers_OOP\ManipulateNumbers_OOP\obj\Debug\ManipulateNumbers_OOP.csprojAssemblyReference.cache
+C:\Users\konst\source\repos\ManipulateNumbers_OOP\ManipulateNumbers_OOP\obj\Debug\ManipulateNumbers_OOP.csproj.CoreCompileInputs.cache
+C:\Users\konst\source\repos\ManipulateNumbers_OOP\ManipulateNumbers_OOP\obj\Debug\ManipulateNumbers_OOP.exe
+C:\Users\konst\source\repos\ManipulateNumbers_OOP\ManipulateNumbers_OOP\obj\Debug\ManipulateNumbers_OOP.pdb
